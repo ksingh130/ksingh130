@@ -31,9 +31,9 @@ With a proven track record in automation and workflow design, I bring well teste
 ## :link:	Stay in touch
 
 <div align="center">
-  <a href="https://twitter.com/imkunaaal" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/madatbay-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
+ // <a href="https://twitter.com/imkunaaal" target="_blank">
+  //  <img alt="Twitter" src="https://img.shields.io/badge/madatbay-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+ // </a>
   <a href="https://www.linkedin.com/in/ksingh130/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
