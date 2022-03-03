@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 With a proven track record in automation and workflow design, I bring well tested set of skills ready for becoming a successful DevOps Engineer/Developer. I aim to leverage real-world experience working with automation scripts, tools and outstanding client relations to fill in a DevOps engineer role or a similar field :rocket:
