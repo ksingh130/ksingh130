@@ -19,13 +19,6 @@ Solution Engineer with a strong background in developing custom cloud integratio
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </div>
 
-## :bar_chart:	What about some statistics?
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ksingh130" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksingh130" />
-</a>
 
 ## :link:	Stay in touch
 
@@ -33,9 +26,6 @@ Solution Engineer with a strong background in developing custom cloud integratio
  
   <a href="https://www.linkedin.com/in/ksingh130/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/imkunaaal" target="_blank">
-  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
   <a href="mailto:singh-kawaljeet@outlook.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
