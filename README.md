@@ -2,7 +2,6 @@
 
 Solution Engineer with a strong background in developing custom cloud integrations and delivering tailored CRM solutions. Proficient in JavaScript, Python, AWS, and API-based integrations, with hands-on experience in HubSpot, Salesforce, and NetSuite. Skilled at designing automation workflows, optimizing processes, and creating data-driven dashboards to enhance operational efficiency and decision-making. Proven ability to lead large-scale projects and manage client relationships across diverse industries. :rocket:
 
---
 
 ## Languages and Frameworks I use
 <div align="center">
