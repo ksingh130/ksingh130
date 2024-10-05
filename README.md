@@ -1,8 +1,8 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-With a proven track record in automation and workflow design, I bring well tested set of skills ready for becoming a successful DevOps Engineer/Developer. I aim to leverage real-world experience working with automation scripts, tools and outstanding client relations to fill in a DevOps engineer role or a similar field :rocket:
+Solution Engineer with a strong background in developing custom cloud integrations and delivering tailored CRM solutions. Proficient in JavaScript, Python, AWS, and API-based integrations, with hands-on experience in HubSpot, Salesforce, and NetSuite. Skilled at designing automation workflows, optimizing processes, and creating data-driven dashboards to enhance operational efficiency and decision-making. Proven ability to lead large-scale projects and manage client relationships across diverse industries. :rocket:
 
----
+--
 
 ## Languages and Frameworks I use
 <div align="center">
